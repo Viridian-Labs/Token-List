@@ -1,6 +1,6 @@
 {
   "name": "Viridian Token List",
-  "logoURI": "https://github.com/Viridian-Labs/token-images/blob/main/Testnet/Viridian.png",
+  "logoURI": "https://raw.githubcontentuser.com/Viridian-Labs/token-images/main/Testnet/Viridian.png",
   "keywords": ["audited", "verified", "special tokens"],
   "tags": {
     "stablecoin": {
@@ -20,7 +20,7 @@
       "symbol": "USDT",
       "address": "0x3786495F5d8a83B7bacD78E2A0c61ca20722Cce3",
       "decimals": 6,
-      "logoURI": "https://github.com/Viridian-Labs/token-images/blob/main/Testnet/USDT.png",
+      "logoURI": "https://raw.githubcontentuser.com/Viridian-Labs/token-images/main/Testnet/USDT.png",
       "liquid_staked_address": "",
       "tags": ["stablecoin"]
     },
@@ -30,7 +30,7 @@
       "symbol": "VIRI",
       "address": "0x080976e5aEFBC6fCf6f0D9Df692e7CaE354a5f0F",
       "decimals": 18,
-      "logoURI": "https://github.com/Viridian-Labs/token-images/blob/main/Testnet/VIRI.png",
+      "logoURI": "https://raw.githubcontentuser.com/Viridian-Labs/token-images/main/Testnet/VIRI.png",
       "liquid_staked_address": "",
       "tags": ["volatilecoin"]
     },
@@ -40,7 +40,7 @@
       "symbol": "WTCORE",
       "address": "0xe7a9Adb42E23762de7899E91b4B3D7EF0e660206",
       "decimals": 18,
-      "logoURI": "https://github.com/Viridian-Labs/token-images/blob/main/Testnet/WCORE.png",
+      "logoURI": "https://raw.githubcontentuser.com/Viridian-Labs/token-images/main/Testnet/WCORE.png",
       "liquid_staked_address": "",
       "tags": ["volatilecoin"]
     },
@@ -48,10 +48,10 @@
       "chainId": 1115,
       "name": "Circle",
       "symbol": "USDC",
-      "address": "0",
+      "address": "0xED56eBB9DBc61BD42eB5779b15C214de72F840ae",
       "decimals": 6,
-      "logoURI": "https://github.com/Viridian-Labs/token-images/blob/main/Testnet/USDC.png",
-      "liquid_staked_address": "0xED56eBB9DBc61BD42eB5779b15C214de72F840ae",
+      "logoURI": "https://raw.githubcontentuser.com/Viridian-Labs/token-images/main/Testnet/USDC.png",
+      "liquid_staked_address": "",
       "tags": ["stablecoin"]
     }
   ],
