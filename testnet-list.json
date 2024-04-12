@@ -40,7 +40,7 @@
       "symbol": "WTCORE",
       "address": "0xe7a9Adb42E23762de7899E91b4B3D7EF0e660206",
       "decimals": 18,
-      "logoURI": "https://raw.githubcontentuser.com/Viridian-Labs/token-images/main/Testnet/WCORE.png",
+      "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Testnet/WCORE.png",
       "liquid_staked_address": "",
       "tags": ["volatilecoin"]
     },
