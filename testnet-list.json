@@ -28,7 +28,7 @@
       "chainId": 1115,
       "name": "Viri",
       "symbol": "VIRI",
-      "address": "",
+      "address": "0x080976e5aEFBC6fCf6f0D9Df692e7CaE354a5f0F",
       "decimals": 18,
       "logoURI": "https://github.com/Viridian-Labs/token-images/blob/main/Testnet/VIRI.png",
       "liquid_staked_address": "",
@@ -38,7 +38,7 @@
       "chainId": 1115,
       "name": "Wrapped CORE",
       "symbol": "WTCORE",
-      "address": "",
+      "address": "0xe7a9Adb42E23762de7899E91b4B3D7EF0e660206",
       "decimals": 18,
       "logoURI": "https://github.com/Viridian-Labs/token-images/blob/main/Testnet/WCORE.png",
       "liquid_staked_address": "",
@@ -51,7 +51,7 @@
       "address": "0",
       "decimals": 6,
       "logoURI": "https://github.com/Viridian-Labs/token-images/blob/main/Testnet/USDC.png",
-      "liquid_staked_address": "",
+      "liquid_staked_address": "0xED56eBB9DBc61BD42eB5779b15C214de72F840ae",
       "tags": ["stablecoin"]
     }
   ],
