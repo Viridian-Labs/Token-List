@@ -48,7 +48,7 @@
       "chainId": 1115,
       "name": "Circle",
       "symbol": "USDC",
-      "address": "0xED56eBB9DBc61BD42eB5779b15C214de72F840ae",
+      "address": "0x5683298c53bA8bdE36F91271e87B50ba411246Ca",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Testnet/USDC.png",
       "liquid_staked_address": "",
