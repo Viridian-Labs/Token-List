@@ -22,6 +22,7 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Testnet/USDT.png",
       "liquid_staked_address": "",
+      "stable_route": true,
       "tags": ["stablecoin"]
     },
     {
@@ -32,6 +33,7 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Testnet/VIRI.png",
       "liquid_staked_address": "",
+      "stable_route": true,
       "tags": ["volatilecoin"]
     },
     {
@@ -42,6 +44,7 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Testnet/WCORE.png",
       "liquid_staked_address": "",
+      "stable_route": true,
       "tags": ["volatilecoin"]
     },
     {
