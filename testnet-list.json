@@ -33,7 +33,7 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Testnet/VIRI.png",
       "liquid_staked_address": "",
-      "price_control": "0xe7a9Adb42E23762de7899E91b4B3D7EF0e660206",
+      "price_control": "0x3786495F5d8a83B7bacD78E2A0c61ca20722Cce3",
       "stable_route": true,
       "tags": ["volatilecoin"]
     },
