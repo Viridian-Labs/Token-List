@@ -34,6 +34,7 @@
       "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Testnet/VIRI.png",
       "liquid_staked_address": "",
       "price_control": "0xbeCa64e20f5E1CA53BFb6628646c8a32c49b3D36",
+      "stable_route": true,
       "tags": ["volatilecoin"]
     },
     {
@@ -44,7 +45,7 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Testnet/WCORE.png",
       "liquid_staked_address": "",
-      "stable_route": false,
+      "stable_route": true,
       "tags": ["volatilecoin"]
     },
     {
