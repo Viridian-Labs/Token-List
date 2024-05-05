@@ -34,7 +34,7 @@
       "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Testnet/VIRI.png",
       "liquid_staked_address": "",
       "price_control": "0xbeCa64e20f5E1CA53BFb6628646c8a32c49b3D36",
-      "stable_route": true,
+      "stable_route": false,
       "tags": ["volatilecoin"]
     },
     {
@@ -45,7 +45,7 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Testnet/WCORE.png",
       "liquid_staked_address": "",
-      "stable_route": true,
+      "stable_route": false,
       "tags": ["volatilecoin"]
     },
     {
@@ -56,6 +56,7 @@
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Testnet/USDC.png",
       "liquid_staked_address": "",
+      "stable_route": true,
       "price_control": "0x3786495F5d8a83B7bacD78E2A0c61ca20722Cce3",
       "tags": ["stablecoin"]
     }
