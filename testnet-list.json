@@ -45,7 +45,7 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Testnet/WCORE.png",
       "liquid_staked_address": "",
-      "stable_route": false,
+      "stable_route": true,
       "tags": ["volatilecoin"]
     },
     {
