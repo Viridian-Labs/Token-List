@@ -28,7 +28,7 @@
             "symbol": "USDT",
             "address": "0x900101d06A7426441Ae63e9AB3B9b0F63Be145F1",
             "decimals": 6,
-            "logoURI": "https://github.com/Viridian-Labs/token-images/blob/main/Testnet/USDT.png",
+            "logoURI": "https://github.com/Viridian-Labs/token-images/blob/main/Mainnet/USDT.png",
             "liquid_staked_address": "",
             "stable_route": true,
             "tags": [
@@ -41,10 +41,10 @@
             "symbol": "VIRI",
             "address": "",
             "decimals": 18,
-            "logoURI": "https://github.com/Viridian-Labs/token-images/blob/main/Testnet/VIRI.png",
+            "logoURI": "https://github.com/Viridian-Labs/token-images/blob/main/Mainnet/VIRI.png",
             "liquid_staked_address": "",
             "price_control": "0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f",
-            "stable_route": true,
+            "stable_route": false,
             "tags": [
                 "volatilecoin"
             ]
@@ -55,11 +55,38 @@
             "symbol": "WCORE",
             "address": "0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f",
             "decimals": 18,
-            "logoURI": "https://github.com/Viridian-Labs/token-images/blob/main/Testnet/WCORE.png",
+            "logoURI": "https://github.com/Viridian-Labs/token-images/blob/main/Mainnet/WCORE.png",
+            "liquid_staked_address": "",
+            "stable_route": false,
+            "tags": [
+                "volatilecoin"
+            ]
+        },
+        {
+            "chainId": 1116,
+            "name": "Staked CORE",
+            "symbol": "stCORE",
+            "address": "0xb3A8F0f0da9ffC65318aA39E55079796093029AD",
+            "decimals": 18,
+            "logoURI": "",
+            "liquid_staked_address": "",
+            "price_control": "0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f",
+            "stable_route": false,
+            "tags": [
+                "volatilecoin"
+            ]
+        },
+        {
+            "chainId": 1116,
+            "name": "Circle USD",
+            "symbol": "USDC",
+            "address": "",
+            "decimals": 6,
+            "logoURI": "https://github.com/Viridian-Labs/token-images/blob/main/Mainnet/USDC.png",
             "liquid_staked_address": "",
             "stable_route": true,
             "tags": [
-                "volatilecoin"
+                "stablecoin"
             ]
         }
     ],
