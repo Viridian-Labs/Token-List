@@ -88,6 +88,32 @@
             "tags": [
                 "stablecoin"
             ]
+        },
+        {
+            "chainId": 1116,
+            "name": "wrapped BTC",
+            "symbol": "WBTC",
+            "address": "0x5832f53d147b3d6Cd4578B9CBD62425C7ea9d0Bd",
+            "decimals": 8,
+            "logoURI": "https://github.com/Viridian-Labs/token-images/blob/main/Mainnet/WBTC.png",
+            "liquid_staked_address": "",
+            "stable_route": false,
+            "tags": [
+                "volatilecoin"
+            ]
+        },
+        {
+            "chainId": 1116,
+            "name": "Core Wrapped BTC",
+            "symbol": "coreBTC",
+            "address": "0x8034aB88C3512246Bf7894f57C834DdDBd1De01F",
+            "decimals": 8,
+            "logoURI": "https://github.com/Viridian-Labs/token-images/blob/main/Mainnet/coreBTC.png",
+            "liquid_staked_address": "",
+            "stable_route": false,
+            "tags": [
+                "volatilecoin"
+            ]
         }
     ],
     "version": {
