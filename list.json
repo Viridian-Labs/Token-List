@@ -112,6 +112,7 @@
             "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Mainnet/coreBTC.png",
             "liquid_staked_address": "",
             "stable_route": false,
+            "price_control": "0x5832f53d147b3d6cd4578b9cbd62425c7ea9d0bd",
             "tags": [
                 "volatilecoin"
             ]
