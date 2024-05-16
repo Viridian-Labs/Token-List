@@ -39,7 +39,7 @@
             "chainId": 1116,
             "name": "Viridian",
             "symbol": "VIRI",
-            "address": "",
+            "address": "0x189d2849AF2031e20c670E755Fa3F0121f2be409",
             "decimals": 18,
             "logoURI": "https://github.com/Viridian-Labs/token-images/blob/main/Mainnet/VIRI.png",
             "liquid_staked_address": "",
