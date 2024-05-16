@@ -1,6 +1,6 @@
 {
     "name": "Viridian Token List",
-    "logoURI": "https://github.com/Viridian-Labs/token-images/blob/main/Testnet/Viridian.png",
+    "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Testnet/Viridian.png",
     "keywords": [
         "audited",
         "verified",
@@ -28,7 +28,7 @@
             "symbol": "USDT",
             "address": "0x900101d06A7426441Ae63e9AB3B9b0F63Be145F1",
             "decimals": 6,
-            "logoURI": "https://github.com/Viridian-Labs/token-images/blob/main/Mainnet/USDT.png",
+            "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Mainnet/USDT.png",
             "liquid_staked_address": "",
             "stable_route": true,
             "tags": [
@@ -41,7 +41,7 @@
             "symbol": "VIRI",
             "address": "0x189d2849AF2031e20c670E755Fa3F0121f2be409",
             "decimals": 18,
-            "logoURI": "https://github.com/Viridian-Labs/token-images/blob/main/Mainnet/VIRI.png",
+            "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Mainnet/VIRI.png",
             "liquid_staked_address": "",
             "price_control": "0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f",
             "stable_route": false,
@@ -55,7 +55,7 @@
             "symbol": "WCORE",
             "address": "0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f",
             "decimals": 18,
-            "logoURI": "https://github.com/Viridian-Labs/token-images/blob/main/Mainnet/WCORE.png",
+            "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Mainnet/WCORE.png",
             "liquid_staked_address": "",
             "stable_route": false,
             "tags": [
@@ -68,7 +68,7 @@
             "symbol": "stCORE",
             "address": "0xb3A8F0f0da9ffC65318aA39E55079796093029AD",
             "decimals": 18,
-            "logoURI": "https://github.com/Viridian-Labs/token-images/blob/main/Mainnet/stCORE.png",
+            "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Mainnet/stCORE.png",
             "liquid_staked_address": "",
             "price_control": "0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f",
             "stable_route": false,
@@ -82,7 +82,7 @@
             "symbol": "USDC",
             "address": "0xa4151B2B3e269645181dCcF2D426cE75fcbDeca9",
             "decimals": 6,
-            "logoURI": "https://github.com/Viridian-Labs/token-images/blob/main/Mainnet/USDC.png",
+            "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Mainnet/USDC.png",
             "liquid_staked_address": "",
             "stable_route": true,
             "tags": [
@@ -95,7 +95,7 @@
             "symbol": "WBTC",
             "address": "0x5832f53d147b3d6Cd4578B9CBD62425C7ea9d0Bd",
             "decimals": 8,
-            "logoURI": "https://github.com/Viridian-Labs/token-images/blob/main/Mainnet/WBTC.png",
+            "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Mainnet/WBTC.png",
             "liquid_staked_address": "",
             "stable_route": false,
             "tags": [
@@ -108,7 +108,7 @@
             "symbol": "coreBTC",
             "address": "0x8034aB88C3512246Bf7894f57C834DdDBd1De01F",
             "decimals": 8,
-            "logoURI": "https://github.com/Viridian-Labs/token-images/blob/main/Mainnet/coreBTC.png",
+            "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Mainnet/coreBTC.png",
             "liquid_staked_address": "",
             "stable_route": false,
             "tags": [
