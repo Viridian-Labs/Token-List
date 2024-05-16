@@ -84,6 +84,7 @@
             "decimals": 6,
             "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Mainnet/USDC.png",
             "liquid_staked_address": "",
+            "price_control": "0x900101d06A7426441Ae63e9AB3B9b0F63Be145F1",
             "stable_route": true,
             "tags": [
                 "stablecoin"
