@@ -70,7 +70,6 @@
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Mainnet/stCORE.png",
             "liquid_staked_address": "",
-            "price_control": "0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f",
             "stable_route": false,
             "tags": [
                 "volatilecoin"
@@ -112,7 +111,6 @@
             "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Mainnet/coreBTC.png",
             "liquid_staked_address": "",
             "stable_route": false,
-            "price_control": "0x5832f53d147b3d6cd4578b9cbd62425c7ea9d0bd",
             "tags": [
                 "volatilecoin"
             ]
