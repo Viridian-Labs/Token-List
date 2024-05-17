@@ -44,6 +44,7 @@
             "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Mainnet/WCORE.png",
             "liquid_staked_address": "",
             "stable_route": false,
+            "external_feed": true,
             "tags": [
                 "volatilecoin"
             ]
