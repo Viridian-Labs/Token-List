@@ -37,6 +37,19 @@
         },
         {
             "chainId": 1116,
+            "name": "Wrapped CORE",
+            "symbol": "WCORE",
+            "address": "0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Mainnet/WCORE.png",
+            "liquid_staked_address": "",
+            "stable_route": false,
+            "tags": [
+                "volatilecoin"
+            ]
+        },
+        {
+            "chainId": 1116,
             "name": "Viridian",
             "symbol": "VIRI",
             "address": "0x189d2849AF2031e20c670E755Fa3F0121f2be409",
@@ -45,19 +58,6 @@
             "liquid_staked_address": "",
             "stable_route": false,
             "price_control": "0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f",
-            "tags": [
-                "volatilecoin"
-            ]
-        },
-        {
-            "chainId": 1116,
-            "name": "Wrapped CORE",
-            "symbol": "WCORE",
-            "address": "0x40375C92d9FAf44d2f9db9Bd9ba41a3317a2404f",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/Viridian-Labs/token-images/main/Mainnet/WCORE.png",
-            "liquid_staked_address": "",
-            "stable_route": false,
             "tags": [
                 "volatilecoin"
             ]
